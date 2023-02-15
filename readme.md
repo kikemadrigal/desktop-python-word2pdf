@@ -9,6 +9,10 @@ Se puede ejecutar con la línea de comandos de windows.
 
 It can be run with the windows command line.
 
+Descárgalo / Download:
+
+https://github.com/kikemadrigal/desktop-python-word2pdf/releases/tag/0.0.1
+
 <img src="data/images/-1.png" height="200px" />
 
 # Instalación
