@@ -13,7 +13,7 @@ Descárgalo / Download:
 
 https://github.com/kikemadrigal/desktop-python-word2pdf/releases/tag/0.0.1
 
-<img src="data/images/-1.PNG" height="200px" />
+<img src="data/images/-1.png" height="200px" />
 
 # Instalación
 
